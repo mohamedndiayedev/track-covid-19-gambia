@@ -27,4 +27,4 @@ module.exports = {
     'elevatedRiskAlertMessage': 'Your risk level is elevated.',
     'seeStatusTabMessage': 'See the status tab.'
   }
-}
+};
