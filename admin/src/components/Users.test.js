@@ -9,7 +9,7 @@ test('Users component', () => {
   const currentUser = {
     username: 'mr_fox',
     privilege: 1,
-    id: 'abc123'
+    id: 'mohamed123'
   }
   const component = TestRenderer.create(
     <I18nextProvider i18n={i18n}>
