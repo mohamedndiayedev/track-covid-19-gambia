@@ -1,5 +1,5 @@
-process.env.REACT_APP_NAME = 'TrackCOVID'
-process.env.REACT_APP_THEME = 'light'
+process.env.REACT_APP_NAME = 'ANK Analytics - Covid-19 Exposure App (REPUBLIC OF THE GAMBIA)'
+process.env.REACT_APP_THEME = 'dark'
 process.env.REACT_APP_ABOUT_URL = 'https://track-covid-19-gambia.herokuapp.com'
 process.env.REACT_APP_ADMIN_DOMAIN = 'https://track-covid-19-gambia.herokuapp.com'
 process.env.REACT_APP_SERVER_DOMAIN = 'https://track-covid-19-gambia.herokuapp.com'
