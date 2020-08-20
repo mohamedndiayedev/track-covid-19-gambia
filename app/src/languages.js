@@ -1,3 +1,8 @@
 module.exports = {
-  en: 'English'
+  en: 'English',
+   es: 'Español',
+  fr: 'Française',
+  ht: 'Haiti Creole',
+  nl: 'Nederlands',
+  pap: 'Papiamentu'
 }
