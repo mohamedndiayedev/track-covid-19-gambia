@@ -210,12 +210,14 @@ class App extends React.Component {
           onClose={this.closeDrawer.bind(this)}
         >
           <List component='nav' aria-label='settings'>
+            
             <ListItemLink style={{ width: 250 }} href={aboutUrl} target='_blank'>
               <ListItemIcon>
                 <InfoIcon />
               </ListItemIcon>
               <ListItemText primary=<Translation>{t => t('menuAboutButton')}</Translation> />
             </ListItemLink>
+
             <ListItemLink style={{ width: 250 }} href={`${serverDomain}/checkpoint`} target='_blank'>
               <ListItemIcon>
                 <PinDropIcon />
